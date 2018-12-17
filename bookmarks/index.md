@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Bookmarks
-tags: [about, nardtree, catindog, programming, machine-learning]
+tags: [about, wwwwTERURINwwww, allow, programming, machine-learning]
 date: 2017-04-2
 comments: false
 ---
     
-<center><a href="http://gink03.github.io"><b>github</b></a> is used as SNS of Programming, Machine Learning.</center>
+<center><a href="http://allow754.github.io"><b>github</b></a> is used as SNS of Programming, Machine Learning.</center>
 
 ## Hear is bookmark of knowledge.
 
