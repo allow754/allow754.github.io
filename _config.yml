@@ -1,14 +1,14 @@
 # Site
-title:              /var/log/機械学習.gz
-bio:                'Nullius in verba.'
-description:        "Nullius in verba."
+title:              てるまるのいろいろ
+bio:                'cakes'
+description:        "cakes"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/kizuna_akari.png'
-background:         'assets/img/yukari.png'
+logo:               'assets/img/dharma.png'
+background:         'assets/img/lost.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ja_JP
-url:                https://gink03.github.io
+url:                https://allow754.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,26 +26,26 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   nardtree
+disqus_shortname:   terurin
 
 #email:
-twitter:            nardtree
+twitter:            wwwwTERURINwwww
 #facebook:           username
-github-url:         GINK03
+github-url:         allow754
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          wwwwTERURINwwww
 #lastfm:            username
-tumblr:             nardtree-catindog
+#tumblr:            nardtree-catindog
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:            gimpei03
+#youtube:           gimpei03
 #youtube-channel:   channel
-soundcloud:         sgemuj01eczp
+#soundcloud:         sgemuj01eczp
 #weibo:             username
 #flickr:            username
 #codepen:           username
