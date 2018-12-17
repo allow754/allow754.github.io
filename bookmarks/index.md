@@ -17,4 +17,4 @@ comments: false
 
 
 ## プログラミング
-- [git bucket](https://bitbucket.org/account/user/catindog/)
+- [git bucket](https://bitbucket.org/Teruhiro_117/)
